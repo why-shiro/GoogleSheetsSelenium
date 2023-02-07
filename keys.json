@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "itdepremproject",
+  "private_key_id": "3dacd4e7a0931f365544db642cd79a06ee1447b4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDOgXO247oLqVlO\njVb6kMVOWqK1s8ndEirpb2uwsnu5Tf5t0iwRVing7ZBIcpCwGC2a6URNYbkWvjoy\nXY6+cq5ci8lF8kV3cHm+IboVMv0kj7QchRtvRIuIFefYrpYcKyg89X8dhlaTZDdQ\nIBb2hsWmUEUZDrLe1RobMDvcjxXcMfw5buJhz2FNdXzQzPsYwFbWWMw2b024KJLU\nmBAr0LkVF10Ffx6JUWVIDQuxqmhTwqZmV2p4U6TW3Q19motkLPrBoKdtbukC9V/m\nR2o7O5rqXlOKDFsgz41EsdRAlL/0eZ4Pcv3NNhWr5xhXRQn/GY6jmoFCsft4WM+f\ntPxbITy5AgMBAAECggEADsGlHkvwXNo3f6OdtCbBdKeJIj0UVxPv5VGxEzWz3eJf\nBKO8wqnisPgk4+ps4Kp/osbZusJZjrCd+cCh/UW2ZDZYdgM5l879ohqooJBt0q2i\nqBmSY+103476K+uQ3jcux0lfMaHKgLqL8dGzNl9b0xZAE8nvOflmJcx48Jo4bI00\nbX586cjIDwdFJmtsfX9olBiwEJbAuIj876YTf7dDJ8gzHDdRyvcnaslP2RO2MIIm\n7egyZto/iyqg8jdKmNsNUpJBdF0/MIWU9bjg0cms1FMt9MuBOBM7ky5jf4HontiI\n6PRm8cIDsrnuuskM7x4ZCsoO/zFMGPG6TGajzDPVgQKBgQD0qYvwD17/OeEI37Dq\nomK9zlTtmnwccVqlgqjJMVqmtHF94De3OENVyRFETjigMip6YEwYQAyHsAGSLmI9\nOPBxOfREhYlZDJOsvbu0q8G5+ABgQGALJy1/IQHDXk5BSosBdxC59MPbEiuXMh3B\nzBnfOmFIN0blsyWF5swOZ+MOOQKBgQDYEz/jS4Goptdi8AvlOibK58oinDS31m/u\n6VjxNSuNAfvpk9PndizID0/tYuGCChxvjuV4P/auUxCG+2ERXgSx1pO89zSVZMgu\nzmK/6seOosnzpP31rc1zVaxoRUHSIRJF5e29Y8fzrIzikMrxIxU211+fYE9D+c+I\nY1DSaG+igQKBgQDfjv0bgjAfrtd9sEiMXY00OpFH+11k7/8QNW/dR4e5xC/gAT1n\n4bVFcdChRYhgePZvlAZ0MjJA2gbVeCS0JI8wJvCYnByAjglyUnxt/nOqZn6RdMFN\n76KXA6YEyutepaqW0CEsigdc6iGCqnyeVM1fOI0j276grS2gSOA0WaEToQKBgAtP\n3q1gm5YfvfDxDj5e7/75aYysTto9ALkqQDzIgtIsA2s0EQjyF+AVZSLRZWrwapKw\nkXTdLGXt9VSLvoYxPN+ukyd2batQjmZc6bCQcwgVn6sAvUbqZXIfTxpaXdrJXnKI\nWgzrN2Gba/jEictcAdVQKzJl0WCGqIXEZUvOqeGBAoGAFg1J6x8iBED+YHgYH+3P\nb8dL8nhYdhuDGjdgxjlVng3HG4onOy2eQTqcn+7YCkxKHIw1jmHuaLGBQcQ+ADLB\nKnlgCooyNBcovu8a2xur57qulmjlZzOKuhU6estZjriI1Z8YqKZn1ScG4XKnzezF\n3xaXOHmWCMAkdW6XmSchE0A=\n-----END PRIVATE KEY-----\n",
+  "client_email": "neostellar@itdepremproject.iam.gserviceaccount.com",
+  "client_id": "112654575232324443110",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/neostellar%40itdepremproject.iam.gserviceaccount.com"
+}
