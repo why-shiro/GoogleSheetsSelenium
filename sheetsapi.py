@@ -29,25 +29,23 @@ class table:
         x = self.sheets.values().get(spreadsheetId=self.SPREADSHEET_ID, range=str(col)).execute()
         return x
 
+    # 0 = isim, 1 = adres, -1 = tamamlandı mı
     def check_status(self):
         x = self.sheets.values().get(spreadsheetId=self.SPREADSHEET_ID, range="A1:J2000").execute()
         rows = x.get('values', []) #[a,b,c,r]
-        remove = []
+        print(rows)
         for x in rows:
             self.waitList.append(x)
-            print(x)
-        for t in range(0,len(self.waitList)):
-            g = self.waitList[t]
-            if not(g[-1] == "Bekleniyor"):
-                remove.append(self.waitList[t])
-
-        for r in remove:
-            if self.waitList.__contains__(r):
-                self.waitList.remove(r)
 
         self.waitList.pop(0)
 
-        print(self.waitList)
+        return self.waitList
+
+    def set_status(self,message,col):
+        request = self.sheets.values().update(spreadsheetId=self.SPREADSHEET_ID, range=col,
+                                              valueInputOption="USER_ENTERED", body={"values": message})
+        request.execute()
+
 
 
 
